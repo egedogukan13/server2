@@ -1,1 +1,1 @@
-java -Xmx8g -Xms4g -jar paper.jar --nogui
+java -Xmx16g -Xms8g -jar paper.jar --nogui
